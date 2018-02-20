@@ -1,0 +1,1 @@
+Run each individually. The size n is coded in the main method and can be changed to run different size lists and matrices. They all also include optional print methods to display the changed list or matrix.
